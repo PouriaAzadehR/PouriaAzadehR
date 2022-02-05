@@ -1,7 +1,7 @@
 Hi, I’m @PouriaAzadehR
 I’m interested in Web programming & AI 
-I’m currently learning DjangoI and i’m looking to collaborate on back-end projects 
-
+I’m currently studing computer engineering at AmirKabir university
+and learning Django 
 How to reach me 
 pouriazadeh81@aut.ac.ir 
 
