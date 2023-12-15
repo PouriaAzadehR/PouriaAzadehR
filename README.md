@@ -3,8 +3,8 @@
 
 
 <p align="center"> 
-<a href="mailto:Pouria.azadehranjbar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Amin_Saveh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Aminsaveh93@gmail.com"></a>
- <a href="https://t.me/Aminsaveh"><img alt="Gmail" src="https://img.shields.io/twitter/url?label=Amin Saveh &logo=telegram&style=social&url=https://t.me/Aminsaveh">
+<a href="mailto:Pouria.azadehranjbar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Amin_Saveh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Pouria.azadehranjbar@gmail.com"></a>
+ <a href="https://t.me/forky2002"><img alt="Gmail" src="https://img.shields.io/twitter/url?label=Pouria Azadeh &logo=telegram&style=social&url=https://t.me/forky2002">
   </a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
